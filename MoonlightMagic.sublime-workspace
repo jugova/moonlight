@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"boot",
+				"bootstrap"
+			],
+			[
+				"bo",
+				"bootstrap"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"for",
+				"form	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!doctype html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Document</title>\n			</head>\n<body>\n	<form id=\"generalForm\"></form>\n	<div class=\"LOL\">SDF	</div>\n</body>\n</html>",
+			"file": "/C/Users/gonzalezjv/Documents/TrainingModule/Participants/participants_registration.html",
+			"file_size": 0,
+			"file_write_time": 130365230340128709,
+			"settings":
+			{
+				"buffer_size": 183,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3134,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "acordeon.html",
+			"settings":
+			{
+				"buffer_size": 2261,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/slide.html",
+			"settings":
+			{
+				"buffer_size": 1120,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?xml version=\"1.0\" encoding=\"utf-8\" ?><!-- Just the code below --><root xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">  <LangDefs>    <LangDef DisplayName=\"Arabic\" LangID=\"ar\"/>    <LangDef DisplayName=\"Bengali\" LangID=\"bn\"/>    <LangDef DisplayName=\"Bulgarian\" LangID=\"bg\"/>    <LangDef DisplayName=\"Catalan\" LangID=\"ca\"/>    <LangDef DisplayName=\"Simplified Chinese\" LangID=\"zh-cn\"/>    <LangDef DisplayName=\"Traditional Chinese\" LangID=\"zh-tw\"/>    <LangDef DisplayName=\"Croatian\" LangID=\"hr\"/>    <LangDef DisplayName=\"Czech\" LangID=\"cs\"/>    <LangDef DisplayName=\"Danish\" LangID=\"da\"/>    <LangDef DisplayName=\"Dutch\" LangID=\"nl\"/>    <LangDef DisplayName=\"English\" LangID=\"en\"/>    <LangDef DisplayName=\"Finnish\" LangID=\"fi\"/>    <LangDef DisplayName=\"French\" LangID=\"fr\"/>    <LangDef DisplayName=\"German\" LangID=\"de\"/>    <LangDef DisplayName=\"Greek\" LangID=\"el\"/>    <LangDef DisplayName=\"Gujarati\" LangID=\"gu\"/>    <LangDef DisplayName=\"Hebrew\" LangID=\"he\"/>    <LangDef DisplayName=\"Hindi\" LangID=\"hi\"/>    <LangDef DisplayName=\"Hungarian\" LangID=\"hu\"/>    <LangDef DisplayName=\"Icelandic\" LangID=\"is\"/>    <LangDef DisplayName=\"Indonesian\" LangID=\"id\"/>    <LangDef DisplayName=\"Italian\" LangID=\"it\"/>    <LangDef DisplayName=\"Japanese\" LangID=\"ja\"/>    <LangDef DisplayName=\"Kannada\" LangID=\"kn\"/>    <LangDef DisplayName=\"Korean\" LangID=\"ko\"/>    <LangDef DisplayName=\"Latvian\" LangID=\"lv\"/>    <LangDef DisplayName=\"Lithuanian\" LangID=\"lt\"/>    <LangDef DisplayName=\"Malay\" LangID=\"ms\"/>    <LangDef DisplayName=\"Malayalam\" LangID=\"ml\"/>    <LangDef DisplayName=\"Marathi\" LangID=\"mr\"/>    <LangDef DisplayName=\"Norwegian\" LangID=\"no\"/>    <LangDef DisplayName=\"Polish\" LangID=\"pl\"/>    <LangDef DisplayName=\"Portuguese\" LangID=\"pt\"/>    <LangDef DisplayName=\"Punjabi\" LangID=\"pa\"/>    <LangDef DisplayName=\"Romanian\" LangID=\"ro\"/>    <LangDef DisplayName=\"Russian\" LangID=\"ru\"/>    <LangDef DisplayName=\"Slovak\" LangID=\"sk\"/>    <LangDef DisplayName=\"Slovenian\" LangID=\"sl\"/>    <LangDef DisplayName=\"Spanish\" LangID=\"es\"/>    <LangDef DisplayName=\"Swedish\" LangID=\"sv\"/>    <LangDef DisplayName=\"Tamil\" LangID=\"ta\"/>    <LangDef DisplayName=\"Telugu\" LangID=\"te\"/>    <LangDef DisplayName=\"Thai\" LangID=\"th\"/>    <LangDef DisplayName=\"Turkish\" LangID=\"tr\"/>    <LangDef DisplayName=\"Ukrainian\" LangID=\"uk\"/>    <LangDef DisplayName=\"Urdu\" LangID=\"ur\"/>    <LangDef DisplayName=\"Vietnamese\" LangID=\"vi\"/>  </LangDefs>  <Languages>    <Language LangRef=\"en\"/>    <Language LangRef=\"fr\"/>    <Language LangRef=\"de\"/>    <Language LangRef=\"ja\"/>    <Language LangRef=\"zh-cn\"/>    <Language LangRef=\"es\"/>    <Language LangRef=\"zh-tw\"/>  </Languages>  <PropertyDefs>    <PropertyDef Name=\"ProjectCode\" DataType=\"text\" DisplayName=\"Project Code\"/>    <PropertyDef Name=\"AcquisitionID\" DataType=\"text\" DisplayName=\"Acquisition ID\"/>    <PropertyDef Name=\"ReferenceID\" DataType=\"text\" DisplayName=\"Reference ID\"/>    <PropertyDef Name=\"PR\" DataType=\"text\" DisplayName=\"PR\"/>    <PropertyDef Name=\"PO\" DataType=\"text\" DisplayName=\"PO\"/>    <PropertyDef Name=\"Recipient\" DataType=\"text\" DisplayName=\"Recipient\"/>    <PropertyDef Name=\"SubRecipient\" DataType=\"text\" DisplayName=\"SubRecipient\"/>    <PropertyDef Name=\"Author\" DataType=\"text\" DisplayName=\"Author\"/>        <PropertyDef Name=\"Path\" DataType=\"text\" DisplayName=\"URL\"/>    <PropertyDef Name=\"Size\" DataType=\"integer\" DisplayName=\"Size (bytes)\"/>    <PropertyDef Name=\"Write\" DataType=\"datetime\" DisplayName=\"Last Modified Date\"/>    <PropertyDef Name=\"FileName\" DataType=\"text\" DisplayName=\"Name\"/>    <PropertyDef Name=\"Description\" DataType=\"text\" DisplayName=\"Description\"/>    <PropertyDef Name=\"Title\" DataType=\"text\" DisplayName=\"Title\"/>    <PropertyDef Name=\"DocSubject\" DataType=\"text\" DisplayName=\"Subject\"/>    <PropertyDef Name=\"DocKeywords\" DataType=\"text\" DisplayName=\"Keywords\"/>    <PropertyDef Name=\"DocComments\" DataType=\"text\" DisplayName=\"Comments\"/>    <PropertyDef Name=\"CreatedBy\" DataType=\"text\" DisplayName=\"Created By\"/>    <PropertyDef Name=\"ModifiedBy\" DataType=\"text\" DisplayName=\"Last Modified By\"/>  </PropertyDefs>  <ResultTypes>    <ResultType DisplayName=\"All Results\" Name=\"default\">      <KeywordQuery/>            <PropertyRef Name=\"ProjectCode\" />      <PropertyRef Name=\"AcquisitionID\" />      <PropertyRef Name=\"ReferenceID\" />      <PropertyRef Name=\"PR\" />      <PropertyRef Name=\"PO\" />      <PropertyRef Name=\"Recipient\" />      <PropertyRef Name=\"SubRecipient\" />      <PropertyRef Name=\"Author\" />      <PropertyRef Name=\"Description\" />      <PropertyRef Name=\"FileName\" />      <PropertyRef Name=\"Size\" />      <PropertyRef Name=\"Path\" />      <PropertyRef Name=\"Write\" />      <PropertyRef Name=\"CreatedBy\" />      <PropertyRef Name=\"ModifiedBy\" />    </ResultType>    <ResultType DisplayName=\"Documents\" Name=\"documents\">      <KeywordQuery>IsDocument=\"True\"</KeywordQuery>            <PropertyRef Name=\"ProjectCode\" />      <PropertyRef Name=\"AcquisitionID\" />      <PropertyRef Name=\"ReferenceID\" />      <PropertyRef Name=\"PR\" />      <PropertyRef Name=\"PO\" />      <PropertyRef Name=\"Recipient\" />      <PropertyRef Name=\"SubRecipient\" />            <PropertyRef Name=\"Author\" />      <PropertyRef Name=\"DocComments\"/>      <PropertyRef Name=\"Description\" />      <PropertyRef Name=\"DocKeywords\"/>      <PropertyRef Name=\"FileName\" />      <PropertyRef Name=\"Size\" />      <PropertyRef Name=\"DocSubject\"/>      <PropertyRef Name=\"Path\" />      <PropertyRef Name=\"Write\" />      <PropertyRef Name=\"CreatedBy\" />      <PropertyRef Name=\"ModifiedBy\" />      <PropertyRef Name=\"Title\"/>    </ResultType>    <ResultType DisplayName=\"Word Documents\" Name=\"worddocuments\">      <KeywordQuery>FileExtension=\"doc\" OR FileExtension=\"docx\" OR FileExtension=\"dot\" OR FileExtension=\"docm\" OR FileExtension=\"odt\"</KeywordQuery>            <PropertyRef Name=\"ProjectCode\" />      <PropertyRef Name=\"AcquisitionID\" />      <PropertyRef Name=\"ReferenceID\" />      <PropertyRef Name=\"PR\" />      <PropertyRef Name=\"PO\" />      <PropertyRef Name=\"Recipient\" />      <PropertyRef Name=\"SubRecipient\" />      <PropertyRef Name=\"Author\" />      <PropertyRef Name=\"DocComments\"/>      <PropertyRef Name=\"Description\" />      <PropertyRef Name=\"DocKeywords\"/>      <PropertyRef Name=\"FileName\" />      <PropertyRef Name=\"Size\" />      <PropertyRef Name=\"DocSubject\"/>      <PropertyRef Name=\"Path\" />      <PropertyRef Name=\"Write\" />      <PropertyRef Name=\"CreatedBy\" />      <PropertyRef Name=\"ModifiedBy\" />      <PropertyRef Name=\"Title\"/>    </ResultType>    <ResultType DisplayName=\"Excel Documents\" Name=\"exceldocuments\">      <KeywordQuery>FileExtension=\"xls\" OR FileExtension=\"xlsx\" OR FileExtension=\"xlsm\" OR FileExtension=\"xlsb\" OR FileExtension=\"ods\"</KeywordQuery>      <PropertyRef Name=\"ProjectCode\" />      <PropertyRef Name=\"AcquisitionID\" />      <PropertyRef Name=\"ReferenceID\" />      <PropertyRef Name=\"PR\" />      <PropertyRef Name=\"PO\" />      <PropertyRef Name=\"Recipient\" />      <PropertyRef Name=\"SubRecipient\" />            <PropertyRef Name=\"Author\" />      <PropertyRef Name=\"DocComments\"/>      <PropertyRef Name=\"Description\" />      <PropertyRef Name=\"DocKeywords\"/>      <PropertyRef Name=\"FileName\" />      <PropertyRef Name=\"Size\" />      <PropertyRef Name=\"DocSubject\"/>      <PropertyRef Name=\"Path\" />      <PropertyRef Name=\"Write\" />      <PropertyRef Name=\"CreatedBy\" />      <PropertyRef Name=\"ModifiedBy\" />      <PropertyRef Name=\"Title\"/>    </ResultType>    <ResultType DisplayName=\"PowerPoint Presentations\" Name=\"presentations\">      <KeywordQuery>FileExtension=\"ppt\" OR FileExtension=\"pptx\" OR FileExtension=\"pptm\" OR FileExtension=\"odp\"</KeywordQuery>      <PropertyRef Name=\"ProjectCode\" />      <PropertyRef Name=\"AcquisitionID\" />      <PropertyRef Name=\"ReferenceID\" />      <PropertyRef Name=\"PR\" />      <PropertyRef Name=\"PO\" />      <PropertyRef Name=\"Recipient\" />      <PropertyRef Name=\"SubRecipient\" />            <PropertyRef Name=\"Author\" />      <PropertyRef Name=\"DocComments\"/>      <PropertyRef Name=\"Description\" />      <PropertyRef Name=\"DocKeywords\"/>      <PropertyRef Name=\"FileName\" />      <PropertyRef Name=\"Size\" />      <PropertyRef Name=\"DocSubject\"/>      <PropertyRef Name=\"Path\" />      <PropertyRef Name=\"Write\" />      <PropertyRef Name=\"CreatedBy\" />      <PropertyRef Name=\"ModifiedBy\" />      <PropertyRef Name=\"Title\"/>    </ResultType>  </ResultTypes></root>",
+			"file": "html/codigo.xml",
+			"file_size": 0,
+			"file_write_time": 130459433866779176,
+			"settings":
+			{
+				"buffer_size": 8455,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/gonzalezjv/Documents/Visual Studio 2010/Projects/TrainingModule/html/index.html",
+		"/C/Users/gonzalezjv/Documents/GitHub/moonlight/index.html",
+		"/C/Users/gonzalezjv/Documents/GitHub/moonlight/acordeon.html",
+		"/C/Users/gonzalezjv/Documents/GitHub/moonlight/style.less",
+		"/C/Users/gonzalezjv/Documents/GitHub/moonlight/css/style.css",
+		"/C/Users/gonzalezjv/Documents/GitHub/bootstrap-master/less/bootstrap.less",
+		"/C/Users/gonzalezjv/Documents/TrainingModule/Participants/AddParticipants.html",
+		"/C/Users/gonzalezjv/Documents/TrainingModule/css/bootstrap.css"
+	],
+	"find":
+	{
+		"height": 268.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"accordion-body\"",
+			"=\"accordion-toggle\"",
+			"=\"accordion-body\">",
+			"=\"accordion-toggle\">",
+			"\"></",
+			"=\"accordion-body\">",
+			"=\"accordion-heading\">",
+			"form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/gonzalezjv/Documents/TrainingModule/Participants/participants_registration.html",
+					"settings":
+					{
+						"buffer_size": 183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+								100
+							],
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"wrap_width": 80
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								270,
+								270
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 15.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "acordeon.html",
+					"settings":
+					{
+						"buffer_size": 2261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2195,
+								2245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "html/slide.html",
+					"settings":
+					{
+						"buffer_size": 1120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "html/codigo.xml",
+					"settings":
+					{
+						"buffer_size": 8455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8455,
+								8455
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.0947332222001,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true
+}
